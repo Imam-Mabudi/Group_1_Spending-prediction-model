@@ -14,3 +14,4 @@ Case Scenario:- TANZANIA TOURISM SECTOR
    The dataset describes 6476 rows of up-to-date information on tourist expenditure collected by the National Bureau of Statistics (NBS) in Tanzania.The dataset was collected to gain a better understanding of the status of the tourism sector and provide an instrument that will enable sector growth. The survey covers seven departure points, namely: Julius Nyerere International Airport, Kilimanjaro International Airport, Abeid Amani Karume International Airport, and the Namanga, Tunduma, Mtukula and Manyovu border points.
 
 # KEY INSIGHTS/OBSERVATION AND RECOMMENDATIONS 
+It is observe that most tourist made payment through cash, after deep analysis I recommended that the governmnet of Tanzania should encourage electronic payment for tourist by introducing a special account for tourist coming to Tanzania where the intending tourist would deposit money in Tanzania's local currency and be issued masters card for easy spending.
